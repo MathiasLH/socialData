@@ -1,4 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://mathiaslh.github.io/socialData/"
 languageCode = "en-us"
 title = "god titel"
 theme = "dream"
+[markup.goldmark.renderer]
+	unsafe = true
