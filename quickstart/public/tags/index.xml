@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on god titel</title>
-    <link>http://example.org/tags/</link>
+    <link>https://mathiaslh.github.io/socialData/tags/</link>
     <description>Recent content in Tags on god titel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://mathiaslh.github.io/socialData/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
